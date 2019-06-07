@@ -1,0 +1,7 @@
+# coding: utf-8
+
+API_TOKEN = "xoxb-645554288212-646618785378-PJXQ8Cfa36jxMRRfh6Ix3ED3"
+
+DEFAULT_REPRY = "なんや"
+
+PLUGINS = ['plugins',]
